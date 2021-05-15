@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb74260f-82e8-441a-84a8-3ab44b1a9b42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sDEMr0lmCol3HA3mP2miCSNUbB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb74260f-82e8-441a-84a8-3ab44b1a9b42" name="Default Changelist" comment="" />
+      <created>1620398715037</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620398715037</updated>
+      <workItem from="1620398716095" duration="1906000" />
+      <workItem from="1620450820094" duration="4667000" />
+      <workItem from="1620482664268" duration="558000" />
+      <workItem from="1620553646837" duration="2974000" />
+      <workItem from="1620561182691" duration="11990000" />
+      <workItem from="1620624145432" duration="5799000" />
+      <workItem from="1620656648094" duration="2249000" />
+      <workItem from="1620718540383" duration="6328000" />
+      <workItem from="1620743298619" duration="1959000" />
+      <workItem from="1620795623604" duration="4425000" />
+      <workItem from="1620805478411" duration="3726000" />
+      <workItem from="1620826969260" duration="4279000" />
+      <workItem from="1620876335859" duration="5831000" />
+      <workItem from="1620889517582" duration="5419000" />
+      <workItem from="1620914415617" duration="2839000" />
+      <workItem from="1620974224571" duration="9202000" />
+      <workItem from="1620986503956" duration="5194000" />
+      <workItem from="1620999733448" duration="8979000" />
+      <workItem from="1621046958349" duration="1740000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
